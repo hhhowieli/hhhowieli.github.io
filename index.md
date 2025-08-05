@@ -1,5 +1,3 @@
-layout: default
-
 # Biography
 
 # Publication
@@ -11,4 +9,4 @@ layout: default
 
 **2024**
 
-1. Bowen Qu*,  **Haohui Li***, Wei Gao, “Bringing Textual Prompt to AI-Generated Image Quality Assessment,” 2024 IEEE Conference on Multimedia Expo (ICME), 2024. (*: Equal contribution)
+1. Bowen Qu,  **Haohui Li**, Wei Gao, “Bringing Textual Prompt to AI-Generated Image Quality Assessment,” 2024 IEEE Conference on Multimedia Expo (ICME), 2024. (*: Equal contribution)
