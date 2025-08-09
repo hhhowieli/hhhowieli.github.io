@@ -1,8 +1,14 @@
-# Biography
+# Howie Li (offically Haohui Li)
+
+Shenzhen, Guangdong, China
+
+Email: hhhowieli@gmail.com
+
+## Biography
 
 I am an algorithm engineering at Shopee SZDC, focusing on the image generation. I received the M.S degree from SECE, Peking University, in 2025, and the B.E. degree from NUDT, in 2022. I used to be an engineering intern in Shopee MPI&D during 2024 supervised by [Shangxuan Tian](https://scholar.google.com/citations?user=HdVQAOkAAAAJ&hl=zh-CN).
 
-# Publications
+## Publications
 
 **2025**
 
@@ -12,3 +18,5 @@ I am an algorithm engineering at Shopee SZDC, focusing on the image generation. 
 **2024**
 
 1. Bowen Qu,  **Haohui Li**, Wei Gao, “Bringing Textual Prompt to AI-Generated Image Quality Assessment,” 2024 IEEE Conference on Multimedia Expo (ICME), 2024. (共同一作)
+
+## Experience
