@@ -28,10 +28,10 @@ I am an algorithm engineering at Shopee SZDC, focusing on the image generation. 
   <div style="float: left; margin-right: 20px;" class="project-img">
     <img src="assets/OpenPointCloud-logo.png" alt="OpenPointCloud Logo" style="padding: 55px 0px">
   </div>
-  <div style="overflow: hidden; margin-top: -5px;">
+  <div style="overflow: hidden; margin-top: 0px;">
     <h3>OpenPointCloud</h3>
-    <p style="text-indent: 16px; margin-top: -5px;">I participate in OpenPointCloud, an open-source algorithm library of deep learning-based point cloud compression & processing, mainly contribute in the point cloud quality assessment.</p>
-    <p style="margin-top:-5px">[<a href="https://git.openi.org.cn/OpenPointCloud/OpenPointCloud">Code</a>]</p>
+    <p style="text-indent: 16px; margin-top: 0px;">I participate in OpenPointCloud, an open-source algorithm library of deep learning-based point cloud compression & processing, mainly contribute in the point cloud quality assessment. [<a href="https://git.openi.org.cn/OpenPointCloud/OpenPointCloud">Code</a>]
+    </p>
   </div>
 </div>
 
