@@ -1,6 +1,6 @@
 # Howie Li (offically Haohui Li)
 
-<img src="assets/selfish.jpg" style="width:256px">
+<!-- <img src="assets/selfish.jpg" style="width:256px"> -->
 
 *Shenzhen, Guangdong, China*
 
