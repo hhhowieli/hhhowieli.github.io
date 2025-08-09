@@ -1,8 +1,9 @@
 # Howie Li (offically Haohui Li)
 
-Shenzhen, Guangdong, China
+*Shenzhen, Guangdong, China*
 
-Email: hhhowieli@gmail.com
+* Email: hhhowieli@gmail.com
+* Github: https://github.com/hhhowieli
 
 ## Biography
 
@@ -20,3 +21,16 @@ I am an algorithm engineering at Shopee SZDC, focusing on the image generation. 
 1. Bowen Qu,  **Haohui Li**, Wei Gao, “Bringing Textual Prompt to AI-Generated Image Quality Assessment,” 2024 IEEE Conference on Multimedia Expo (ICME), 2024. (共同一作)
 
 ## Experience
+
+## Projects
+
+<link rel="style" href="/css/styles.css">
+<div class="file-container">
+  <div class="/assets/logo.jpeg"></div>
+  <pre><code>OpenPointCloud
+
+I am principally responsible for the interactive data annotation algorithms for SenseBee,
+the data platform for SenseTime AI research. We propose and deploy deep learning-based
+algorithms to accelerate manual data annotations (i.e. image segmentation, image matting,
+3D object detection).</code></pre>
+</div>
