@@ -1,7 +1,8 @@
-project-img {
-    width:10%;
+img {
+    width:10px;
 }
-file-container {
+
+.file-container {
   border: 1px solid #e1e4e8;
   border-radius: 6px;
   margin: 16px 0;

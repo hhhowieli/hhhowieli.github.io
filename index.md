@@ -24,12 +24,23 @@ I am an algorithm engineering at Shopee SZDC, focusing on the image generation. 
 
 ## Projects
 
-<link rel="style" href="css/styles.css">
-<div class="file-container">
-    <div class="filename">
-        <img class="project-img" src="assets/logo.jpeg">
-    </div>
-    <a href="https://git.openi.org.cn/OpenPointCloud/OpenPointCloud">
-        OpenPointCloud
-    </a>
+<div style="overflow: auto;">
+  <div style="float: left; margin-right: 20px;" class="project-img">
+    <img src="assets/OpenPointCloud-logo.png" alt="OpenPointCloud Logo" style="padding: 40px 0px">
+  </div>
+  <div style="overflow: hidden; margin-top: -15px;">
+    <h3>OpenPointCloud</h3>
+    <p style="text-indent: 16px">I participate in OpenPointCloud, an open-source algorithm library of deep learning-based point cloud compression & processing, mainly contribute in the point cloud quality assessment.</p>
+  </div>
 </div>
+
+<style>
+
+.project-img {
+    width:120px;
+    height:120px;
+    object-fit: contain;
+    background-color: #ffffff
+}
+
+</style>
