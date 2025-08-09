@@ -25,8 +25,12 @@ I am an algorithm engineering at Shopee SZDC, focusing on the image generation. 
 ## Projects
 
 <link rel="style" href="/css/styles.css">
-<img src="./assets/logo.jpeg" alt="cat"></img>
-<a href="https://git.openi.org.cn/OpenPointCloud/OpenPointCloud">
-OpenPointCloud
-</a>
+<div class="file-container">
+    <div class="filename">
+        <img src="./assets/logo.jpeg" alt="cat"></img>
+    </div>
+    <a href="https://git.openi.org.cn/OpenPointCloud/OpenPointCloud">
+        OpenPointCloud
+    </a>
+</div>
 </link>
