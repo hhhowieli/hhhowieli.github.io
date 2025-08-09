@@ -2,8 +2,9 @@
 
 *Shenzhen, Guangdong, China*
 
-* Email: hhhowieli@gmail.com
-* Github: https://github.com/hhhowieli
+Email: hhhowieli@gmail.com \
+Github: https://github.com/hhhowieli
+
 
 ## Biography
 
