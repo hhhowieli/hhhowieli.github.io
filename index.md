@@ -25,12 +25,8 @@ I am an algorithm engineering at Shopee SZDC, focusing on the image generation. 
 ## Projects
 
 <link rel="style" href="/css/styles.css">
-<div class="file-container">
-  <div class="/assets/logo.jpeg"></div>
-  <pre><code>OpenPointCloud
-
-I am principally responsible for the interactive data annotation algorithms for SenseBee,
-the data platform for SenseTime AI research. We propose and deploy deep learning-based
-algorithms to accelerate manual data annotations (i.e. image segmentation, image matting,
-3D object detection).</code></pre>
-</div>
+<img src="./assets/logo.jpeg" alt="cat"></img>
+<a href="https://git.openi.org.cn/OpenPointCloud/OpenPointCloud">
+OpenPointCloud
+</a>
+</link>
