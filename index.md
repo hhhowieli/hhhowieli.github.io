@@ -18,19 +18,18 @@ I am an algorithm engineering at Shopee SZDC, focusing on the image generation. 
 
 **2024**
 
-1. Bowen Qu,  **Haohui Li**, Wei Gao, “Bringing Textual Prompt to AI-Generated Image Quality Assessment,” 2024 IEEE Conference on Multimedia Expo (ICME), 2024. (共同一作)
+1. Bowen Qu,  **Haohui Li**, Wei Gao, “Bringing Textual Prompt to AI-Generated Image Quality Assessment,” 2024 IEEE Conference on Multimedia Expo (ICME), 2024. (Co-first)
 
 ## Experience
 
 ## Projects
 
-<link rel="style" href="/css/styles.css">
+<link rel="style" href="css/styles.css">
 <div class="file-container">
     <div class="filename">
-        <img src="./assets/logo.jpeg" alt="cat"></img>
+        <img class="project-img" src="assets/logo.jpeg">
     </div>
     <a href="https://git.openi.org.cn/OpenPointCloud/OpenPointCloud">
         OpenPointCloud
     </a>
 </div>
-</link>
