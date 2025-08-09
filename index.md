@@ -1,6 +1,8 @@
-# 自我介绍
+# Biography
 
-# 论文
+I am an algorithm engineering at Shopee SZDC, focusing on the image generation. I received the M.S degree from SECE, Peking University, in 2025, and the B.E. degree from NUDT, in 2022. I used to be an engineering intern in Shopee MPI&D during 2024 supervised by Shanxuan Tian.
+
+# Publications
 
 **2025**
 
