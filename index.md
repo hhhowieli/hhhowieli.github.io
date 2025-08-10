@@ -11,7 +11,14 @@ Github: https://github.com/hhhowieli
 
 ## Biography
 
-I am an algorithm engineering at Shopee SZDC, focusing on the image generation. I received the M.S degree from SECE, Peking University, in 2025, and the B.E. degree from NUDT, in 2022. I used to be an engineering intern in Shopee MPI&D during 2024 supervised by [Shangxuan Tian](https://scholar.google.com/citations?user=HdVQAOkAAAAJ&hl=zh-CN).
+I am an algorithm engineer at Shopee SZDC, focusing on the image generation. I received the M.S degree from SECE, Peking University, in 2025, and the B.E. degree from NUDT, in 2022. I used to be an engineering intern in Shopee MPI&D during 2024 supervised by [Shangxuan Tian](https://scholar.google.com/citations?user=HdVQAOkAAAAJ&hl=zh-CN).
+
+## Experience
+
+* **Shopee SZDC** *Jul.2025 - Present*
+  * Position: Algorithm Engineer
+* **Shopee SZDC** *Jun.2024 - Sep.2024*
+  * Position: Engineer Intern
 
 ## Publications
 
@@ -24,7 +31,6 @@ I am an algorithm engineering at Shopee SZDC, focusing on the image generation. 
 
 1. Bowen Qu,  **Haohui Li**, Wei Gao, “Bringing Textual Prompt to AI-Generated Image Quality Assessment,” 2024 IEEE Conference on Multimedia Expo (ICME), 2024. (Co-first)
 
-## Experience
 
 ## Projects
 
