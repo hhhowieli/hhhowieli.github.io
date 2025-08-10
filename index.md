@@ -15,9 +15,9 @@ I am an algorithm engineer at Shopee SZDC, focusing on the image generation. I r
 
 ## Experience
 
-* **Shopee SZDC** *Jul.2025 - Present*
+* **Shopee SZDC** <a class="exp-time">Jul.2025 - Present</a>
   * Position: Algorithm Engineer
-* **Shopee SZDC** *Jun.2024 - Sep.2024*
+* **Shopee SZDC** <a class="exp-time">Jun.2024 - Sep.2024</a>
   * Position: Engineer Intern
 
 ## Publications
@@ -52,6 +52,11 @@ I am an algorithm engineer at Shopee SZDC, focusing on the image generation. I r
     height:150px;
     object-fit: contain;
     background-color: #ffffff
+}
+
+.exp-time {
+    float: right;
+    font-style:italic
 }
 
 </style>
