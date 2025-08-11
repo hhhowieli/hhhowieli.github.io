@@ -2,7 +2,7 @@
 
 <!-- <img src="assets/selfish.jpg" style="width:256px"> -->
 
-*Shenzhen, Guangdong, China*
+<dev style="font-style:italic; float: right"> Shenzhen, Guangdong, China </dev>
 
 Email: hhhowieli@gmail.com \
 Github: https://github.com/hhhowieli
